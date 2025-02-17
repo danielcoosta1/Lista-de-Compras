@@ -17,5 +17,5 @@
 [![Figma](https://img.icons8.com/color/22/000000/figma.png)](https://www.figma.com/design/QtW96TPE97jTKiTbl2ZNcD/JavaScript%3A-construindo-p%C3%A1ginas-din%C3%A2micas-%7C-Checklist?node-id=0-1&p=f&t=bcASzZp99xSh5sNy-0)
 
 <h2>Projeto Desktop</h2>
-<img src="https://github.com/danielcoosta1/Lista-de-Compras/blob/main/4299-javascript-projeto-base/img/desktop1.PNG?raw=true">
-<img src="https://github.com/danielcoosta1/Lista-de-Compras/blob/main/4299-javascript-projeto-base/img/desktop2.PNG?raw=true">
+<img src="https://github.com/danielcoosta1/Lista-de-Compras/blob/main/4299-javascript-projeto-base/img/desktop1.PNG?raw=true"> <img src="https://github.com/danielcoosta1/Lista-de-Compras/blob/main/4299-javascript-projeto-base/img/desktop2.PNG?raw=true">
+
