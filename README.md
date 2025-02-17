@@ -1,5 +1,6 @@
 <h1>Projeto ALURA - Criação de página: Lista de Compras</h1>
 <p>Projeto ficticio da plataforma ALURA</p>
+<p>Projeto com foco em exercitar conceitos JS: Construção de páginas dinâmicas no JavaScript</p>
 <h2>Linguagens usadas:</h2>
 <p>
  
@@ -9,7 +10,7 @@
 
 </p>
 
-<p>Projeto com foco em exercitar conceitos JS: Construção de páginas dinâmicas no JavaScript</p>
+
  
 <h2>Projeto FIGMA:</h2>
 
